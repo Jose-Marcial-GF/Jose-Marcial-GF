@@ -4,7 +4,7 @@ I'm Marcial. I'm a Computer Science student at the University of Las Palmas de G
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jose Marcial Galván Franco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcial.galvan005@gmail.com) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/Jose Marcial Galván Franco) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcial.galvan005@gmail.com) 
 
 # 💻 Tech Stack:
 I'm most comfortable programming in Python and Java. Although my strongest languages are backend-oriented, I also enjoy frontend development using React and TypeScript.
