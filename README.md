@@ -35,6 +35,3 @@ Currently, I'm learning Spring Boot on my own.
 ![](https://github-readme-stats.shion.dev/api?username=Jose-Marcial-GF&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Jose-Marcial-GF&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jose-Marcial-GF&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-# what ever you need contact to me by marcial.galvan005@gmail.com
