@@ -26,7 +26,7 @@ Currently, I'm learning Spring Boot on my own.
 ![Linux](https://img.shields.io/badge/sys-administrator-green?logo=linux)
 ![Docker](https://img.shields.io/badge/continer-docker-blue?logo=docker)
 ![Podman](https://img.shields.io/badge/continer-podman-purple?logo=podman)
-# 👀 Excited to: <!-- Better phrasing !-->
+# 👀 Excited to: <!-- Better phrasing -->
  - learn about cybersecurity and Infrastructure
  - keep improving my clean coding
 
